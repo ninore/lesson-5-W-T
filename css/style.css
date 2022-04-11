@@ -17,7 +17,9 @@
  	vertical-align: middle;
  	margin-right: 25px;
  	font-size: 11px;
+    color: #343638;
  }
+
  /*section1*/
 .block-1 {
     display: inline-block;
@@ -28,6 +30,8 @@
 }
 .h2 {
     margin-bottom: 40px;
+    font-family: 'Noto Sans';
+    font-size: 24px;
 
 }
 .b-1{
@@ -49,12 +53,17 @@
     left: 40px;
     width: 280px;
     height: 16pc;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    color: #FFFFFF;
 }
 
 
 .p {
     width: 280px;
     margin: 66px 40px;
+    font-size: 13px;
+    color: #A6ADB4;
 }
 .image-wraper2{
     position: relative;
@@ -106,11 +115,17 @@
     position: absolute;
     bottom: 30px;
     left: 569px;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    color: #FFFFFF;
 }
 .h4-2{
     position: absolute;
     top: 18px;
     left: 40px;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    color: #FFFFFF;
 }
 .road-img{
     padding-top: 102px;
