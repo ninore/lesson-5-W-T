@@ -1,0 +1,117 @@
+ /*navigation*/
+ .logo {
+ 	display: inline-block;
+ 	vertical-align: middle;
+ 	margin-top: 18px;
+ 	margin-right: 92px;
+ 	margin-left: 20px;
+ }
+.nav-bar{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 20px;
+
+}
+ .li {
+ 	display: inline-block;
+ 	vertical-align: middle;
+ 	margin-right: 25px;
+ 	font-size: 11px;
+ }
+ /*section1*/
+.block-1 {
+    display: inline-block;
+    width: 1160px;
+    height: 420px;
+    margin-top: 75px;
+    margin-left: 140px;
+}
+.h2 {
+    margin-bottom: 40px;
+
+}
+.b-1{
+    display: inline-block;
+    margin-right: 40px;
+}
+.b-3 {
+    display: inline-block;
+}
+.image-wraper1{
+    position: relative;
+   
+    vertical-align: middle;
+    width: 360px;
+}
+.h4{
+    position: absolute;
+    top: 28px;
+    left: 40px;
+    width: 280px;
+    height: 16pc;
+}
+
+
+.p {
+    width: 280px;
+    margin: 66px 40px;
+}
+.image-wraper2{
+    position: relative;
+   
+    vertical-align: middle;
+    width: 360px;
+}
+
+.image-wraper3{
+    position: relative;
+   vertical-align: middle;
+    width: 360px;
+}
+
+/* section-2 */
+.block-2{
+    display: inline-block;
+    width: 1160px;
+    height: 960px;
+    margin-right: 140px;
+    margin-left: 140px;
+    margin-bottom: 234px;
+}
+.wraper-1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 40px;
+    width: 760px;
+    height: 900px;
+}
+.wraper-2 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 360px;
+    height: 900px;
+}
+.image-block-1{
+    width: 760px;
+    position: relative;
+    margin-bottom: 40px;
+}
+.image-block-2{
+    width: 360px;
+    position: relative;
+    margin-bottom: 102px;
+
+}
+.h4-1{
+    position: absolute;
+    bottom: 30px;
+    left: 569px;
+}
+.h4-2{
+    position: absolute;
+    top: 18px;
+    left: 40px;
+}
+.road-img{
+    padding-top: 102px;
+}
